@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+kaggle.json
+.kaggle/
+.env
+datasets/
+data/
+*.wav
+*.npy
+*.pkl
+*.keras
+*.h5
+.DS_Store
